@@ -47,3 +47,16 @@ Coinelim is a software development project. Screenshots and research results dem
 Developer: Emir Kılıç
 Location: Ankara, Türkiye
 Contact: emirkilic322@gmail.com
+## Screenshots
+
+### Login Screen
+![Coinelim Login](giriş.png)
+
+### Strategy Comparison
+![Strategy Comparison](detay.png)
+
+### Paper Trading Configuration
+![Paper Trading Configuration](detay2.png)
+
+### Trading Chart
+![Trading Chart](grafik.png)
